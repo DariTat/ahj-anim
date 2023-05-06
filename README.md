@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/o1ndari8ld6hnhxv?svg=true)](https://ci.appveyor.com/project/DariTat/ahj-anim)
 # Домашнее задание к занятию "9. Анимации и CSS"
 
 Правила сдачи задания:
